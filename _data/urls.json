@@ -1,25 +1,26 @@
 [
   {
-    "text": "Home",
+    "text": "Java",
     "url": "/",
-    "icon": "fa-home",
+    "icon": "fas fa-code",
     "layout": "post"
   },
   {
-    "text": "About",
+    "text": "빅데이터",
     "url": "/about/",
-    "icon": "fa-comments"
+    "icon": "far fa-database"
+  },
+  {
+    "text": "Android",
+    "url": "/#",
+    "icon": "fa-database",
   },
   {
     "text": "Projects",
     "url": "/projects",
     "icon": "fa-desktop"
   },
-  {
-    "text": "Resume",
-    "url": "/#",
-    "icon": "fa-graduation-cap",
-  },
+ 
   {
     "text": "Github",
     "url": "/#",
