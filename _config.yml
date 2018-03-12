@@ -1,11 +1,11 @@
-title: Hello2
-description: My Personal Blog
-author: Hello
-logo: /hcz-jekyll-blog/static/img/avatar.png
-github: https://github.com/codeasashu
-about: Freelance developer
+title: YS/H
+description: Study blog
+author: YS/H
+logo: /img/logo.png
+github: https://saewookr.github.io/
+about: 스터디 블로그.
 
-baseurl: ""
+baseurl: "https://saewookr.github.io/"
 url: ""
 
 allowsearch: true
