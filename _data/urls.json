@@ -6,13 +6,20 @@
     "layout": "post"
   },
   {
-    "text": "리눅스/빅데이터",
-    "url": "/about/",
-    "icon": "far fa-database"
+    "text": "리눅스",
+    "url": "/linux/",
+    "icon": "far fa-linux",
+	"layout": "post"
+  },
+  {
+    "text": "빅데이터",
+    "url": "/bigdata/",
+    "icon": "far fa-database",
+	"layout": "post"
   },
   {
     "text": "Android",
-    "url": "/#",
+    "url": "/android/",
     "icon": "fa-android",
 	"layout": "post"
   },
