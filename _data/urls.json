@@ -7,25 +7,25 @@
   },
   {
     "text": "리눅스",
-    "url": "/linux/",
+    "url": "linux/",
     "icon": "far fa-linux",
 	"layout": "post"
   },
   {
     "text": "빅데이터",
-    "url": "/bigdata/",
+    "url": "bigdata/",
     "icon": "far fa-database",
 	"layout": "post"
   },
   {
     "text": "Android",
-    "url": "/android/",
+    "url": "android/",
     "icon": "fa-android",
 	"layout": "post"
   },
   {
     "text": "Projects",
-    "url": "/projects",
+    "url": "projects/",
     "icon": "fa-desktop"
   },
  
