@@ -9,6 +9,7 @@
     "text": "리눅스",
     "url": "linux/",
     "icon": "far fa-linux",
+	"layout": "linux"
   },
   {
     "text": "빅데이터",
