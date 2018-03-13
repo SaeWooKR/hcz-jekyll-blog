@@ -1,6 +1,6 @@
 ---
 layout: page
-title: linux
+title: Android
 permalink: /android/
 categories: android
 ---

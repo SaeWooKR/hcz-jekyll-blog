@@ -1,6 +1,6 @@
 ---
 layout: page
-title: java
+title: Java
 permalink: /java/
 categories: java
 ---

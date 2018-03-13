@@ -1,6 +1,6 @@
 ---
 layout: page
-title: linux
+title: Bigdata
 permalink: /bigdata/
 categories: bigdata
 ---
