@@ -1,7 +1,12 @@
 [
+ {
+    "text": "Index",
+    "url": "/",
+    "icon": "fas fa-info",
+  },
   {
     "text": "Java",
-    "url": "/",
+    "url": "java/",
     "icon": "fas fa-code",
     "layout": "post"
   },
