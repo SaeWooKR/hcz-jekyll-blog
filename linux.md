@@ -1,7 +1,7 @@
 ---
-layout: project
-title: Projects
-permalink: /projects/
+layout: linux
+title: linux
+permalink: /linux/
 ---
 
-Few of my projects.
+Few of my linux.
