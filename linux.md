@@ -4,7 +4,7 @@ title: linux
 permalink: /linux/
 categories: linux
 ---
-<div class="content well">
+<div>
     {% if site.categories[page.categories] %}
     <div class="list-group">
         {% for post in site.categories[page.categories] %}
